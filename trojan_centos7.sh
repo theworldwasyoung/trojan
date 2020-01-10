@@ -87,7 +87,7 @@ if [ $real_addr == $local_addr ] ; then
 {
     "run_type": "client",
     "local_addr": "127.0.0.1",
-    "local_port": 1080,
+    "local_port": 10000,
     "remote_addr": "$your_domain",
     "remote_port": 443,
     "password": [
@@ -229,9 +229,9 @@ start_menu(){
     green " ===================================="
     green " 介绍：一键安装trojan      "
     green " 系统：>=centos7                       "
-    green " 作者：atrandys                      "
-    green " 网站：www.atrandys.com              "
-    green " Youtube：atrandys                   "
+    green " **                      "
+    green " **              "
+    green " **                   "
     green " ===================================="
     echo
     green " 1. 安装trojan"
